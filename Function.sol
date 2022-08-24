@@ -10,5 +10,4 @@ contract Function{
     uint8 b=20;
     return b;
     }
-
 }
